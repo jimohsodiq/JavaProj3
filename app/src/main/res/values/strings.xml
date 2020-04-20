@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JavaProj3</string>
+    <string name="app_checkbox">Biscuit</string>
+    <string name="nextpage">Next Page</string>
+    <string-array name="shopping_list">
+        <item>Biscuit</item>
+        <item>Chicken</item>
+        <item>Soda</item>
+        <item>Soap</item>
+        <item>Golden Morn</item>
+        <item>Basket</item>
+        <item>Book</item>
+
+    </string-array>
+
+    <string-array name="price">
+        <item>N800</item>
+        <item>N3,000</item>
+        <item>N150</item>
+        <item>N1,400</item>
+        <item>N2,000</item>
+        <item>N600</item>
+        <item>N250</item>
+
+    </string-array>
+
+</resources>
